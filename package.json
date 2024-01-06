@@ -1,0 +1,25 @@
+{
+  "name": "ibadkath-calculator-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Calculator.js",
+  "type": "module",
+  "bin": "./Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/gradient-string": "^1.1.5",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.8.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.11",
+    "node-banner": "^1.4.0"
+  }
+}
