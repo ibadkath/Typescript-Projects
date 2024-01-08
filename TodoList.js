@@ -48,7 +48,7 @@ async function deleteToDo() {
             {
                 name: "menuOpt",
                 type: "list",
-                choices: "todos",
+                choices: todos,
                 message: "Select ToDo for delete"
             }
         ]);
